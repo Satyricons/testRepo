@@ -1,2 +1,2 @@
 $testRepo
-fix 2
+$Это master
